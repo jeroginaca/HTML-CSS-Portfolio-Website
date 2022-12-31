@@ -4,6 +4,11 @@
 
 Proyecto de HTML y CSS para principiantes
 
+
+## Guía para construir un ![Portfolio en HTML y CSS]()
+
+* Mira el diseño en ![Figma](https://www.figma.com/file/LBfyeLZfDUKRyP06lqaf8r/HTML-y-CSS-Portfolio-Website?node-id=0%3A1&t=IylkA8sBHGN8qgKL-0)
+
 1. Crear el index.html
 1. Crear la estructura básica del archivo HTML2. 
 
